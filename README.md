@@ -4,9 +4,9 @@ I’m a Robotics Software Engineer and Researcher working at the intersection of
 My work focuses on building expressive, scalable cognitive architectures that allow robots to operate safely and intelligently in dynamic, human-centered environments.
 
 
-![devis12's Stats](https://github-readme-stats.vercel.app/api?username=devis12&theme=vue-dark&show_icons=true&hide_border=true)
+<!-- ![devis12's Stats](https://github-readme-stats.vercel.app/api?username=devis12&theme=vue-dark&show_icons=true&hide_border=true) -->
 
-> ℹ️ Most of my contributions are in **private and organization repositories** (research & industry), so public GitHub stats only reflect a subset of my work.
+<!-- > ℹ️ Most of my contributions are in **private and organization repositories** (research & industry), so public GitHub stats only reflect a subset of my work. -->
 
 
 ## 🔬 Education, Work & Interests
