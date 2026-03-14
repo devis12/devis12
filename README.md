@@ -1,6 +1,6 @@
 # Ciao, I'm Devis Dal Moro 🇮🇹🤌
 
-I’m a Robotics Software Engineer and Researcher working at the intersection of **autonomous decision-making, human–robot interaction, and AI-powered robotic systems**. 
+I’m a Robotics Software Engineer based in Barcelona 🇪🇸, working at the intersection of **autonomous decision-making, human–robot interaction, and AI-powered robotic systems**. 
 My work focuses on building expressive, scalable cognitive architectures that allow robots to operate safely and intelligently in dynamic, human-centered environments.
 
 
@@ -12,9 +12,10 @@ My work focuses on building expressive, scalable cognitive architectures that al
 ## 🔬 Education, Work & Interests
 
 - 🎓 BSc & MSc in **Computer Science**, **University of Trento**
-- 💼 Robotics Researcher & Software Engineer at **Eurecat Robotics** (Barcelona, Spain 🇪🇸 )
+- 💼 Robotics Researcher & Software Engineer at **Eurecat Robotics**
 - 🇯🇵 Guest Engineer at **Honda Research Institute Japan**
-- 🤖 Specializing in **cognitive architectures** and **AI integration** for social and collaborative robotics:
+- 💼 System Software Development Engineer at **ANYbotics**
+- 🤖 Specialized in **cognitive architectures** and **AI integration** for social and collaborative robotics:
    - 🧩 **BehaviorTree-based cognitive cores**  
    - 🤔 **Planning & deliberation systems** (BDI, PDDL, hybrid symbolic–GenAI approaches)
    - 🔗 Integration of **perception, human tracking, speech, and LLMs** into robot decision layers
